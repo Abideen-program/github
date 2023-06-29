@@ -1,3 +1,3 @@
-#Github
+# Github
 
-Practicing Git commnads
+Practicing Git commands
